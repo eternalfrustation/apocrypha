@@ -8,3 +8,4 @@
 - [CTF Writeups](./ctf.md)
     - [ACECTF](./ctf/acectf.md)
         - [Broken Secrets](./ctf/acectf/broken_secrets.md)
+        - [Another Reading between the Lines?](./ctf/acectf/reading_the_lines.md)
