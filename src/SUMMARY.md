@@ -11,3 +11,4 @@
         - [Another Reading between the Lines?](./ctf/acectf/reading_the_lines.md)
         - [Significance of Reversing](./ctf/acectf/significance_of_reversing.md)
         - [The Chemistry Of Code](./ctf/acectf/the_chemistry_of_code.md)
+        - [DONOTOPEN](./ctf/acectf/i_will_open_it.md)
