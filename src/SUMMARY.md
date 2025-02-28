@@ -9,3 +9,5 @@
     - [ACECTF](./ctf/acectf.md)
         - [Broken Secrets](./ctf/acectf/broken_secrets.md)
         - [Another Reading between the Lines?](./ctf/acectf/reading_the_lines.md)
+        - [Significance of Reversing](./ctf/acectf/significance_of_reversing.md)
+        - [The Chemistry Of Code](./ctf/acectf/the_chemistry_of_code.md)
