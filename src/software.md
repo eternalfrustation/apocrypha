@@ -12,7 +12,7 @@
 - After some testing, Music actually slows you down, unless you are doing something that requires no thinking.
 - For downloading music, 
 ```sh
-yt-dlp -x --embed-subs --embed-metadata --embed-thumbnail --add-metadata "https://youtube.com/playlist?list=PLNPkZsUXzlEjvQemMGAnBifR4yNFO4dpb" -N 8 -I -1:-10:-1
+yt-dlp -x --embed-subs --embed-metadata --embed-thumbnail --add-metadata "https://youtube.com/playlist?list=PLNPkZsUXzlEjvQemMGAnBifR4yNFO4dpb" -N 8 -I -1:-10:-1 --parse-metadata ":(?P<meta_synopsis>)"
 ```
 
 ## More detailed info

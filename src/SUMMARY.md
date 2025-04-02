@@ -1,5 +1,6 @@
 # Summary
 
+- [Project Ideas](./ideas.md)
 - [Software](./software.md)
     - [2D Rendering](./software/2d_rendering.md)
 - [Electronics](./electronics.md)
@@ -13,5 +14,6 @@
         - [The Chemistry Of Code](./ctf/acectf/the_chemistry_of_code.md)
         - [DONOTOPEN](./ctf/acectf/i_will_open_it.md)
         - [Pipher - Piano Cipher](./ctf/acectf/piano_cipher.md)
+
 
 
